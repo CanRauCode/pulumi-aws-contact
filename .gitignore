@@ -1,0 +1,5 @@
+/bin/
+/node_modules/
+.nyc_output
+#blocklist-email.ts
+.PULUMI-EXPORT
