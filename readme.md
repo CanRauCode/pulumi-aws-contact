@@ -1,6 +1,8 @@
 # Pulumi AWS TypeScript by CangleCode
 
-## Link to video tutorial follows.
+## Link to video tutorial on YouTube
+
+[Jamstack Contact Form Microservice with Pulumi & AWS Serverless / Infrastructure as Code [PART 2]](https://youtu.be/oyzutcIVypg)
 
 ## Required Pulumi Config
 
