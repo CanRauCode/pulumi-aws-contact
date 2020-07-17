@@ -10,28 +10,28 @@
     "stack:export": "pulumi stack export --file ./.PULUMI-EXPORT"
   },
   "dependencies": {
-    "@pulumi/aws": "2.8.0",
+    "@pulumi/aws": "2.13.0",
     "@pulumi/awsx": "0.20.0",
     "@pulumi/policy": "1.2.0",
-    "@pulumi/pulumi": "2.0.0",
+    "@pulumi/pulumi": "2.6.1",
     "autolinker": "3.14.1",
-    "aws-sdk": "2.691.0",
-    "isbot": "3.0.3",
-    "sanitize-html": "1.26.0",
-    "validator": "13.0.0"
+    "aws-sdk": "2.714.2",
+    "isbot": "3.0.5",
+    "sanitize-html": "1.27.1",
+    "validator": "13.1.1"
   },
   "devDependencies": {
     "@serverless/event-mocks": "1.1.1",
-    "@types/node": "14.0.11",
-    "@types/sanitize-html": "1.23.0",
-    "@types/validator": "13.0.0",
-    "ava": "3.8.2",
+    "@types/node": "14.0.23",
+    "@types/sanitize-html": "1.23.3",
+    "@types/validator": "13.1.0",
+    "ava": "3.10.1",
     "crawler-user-agents": "1.0.79",
     "cross-env": "7.0.2",
-    "eslint-plugin-prettier": "3.1.3",
+    "eslint-plugin-prettier": "3.1.4",
     "nyc": "15.1.0",
     "prettier": "2.0.5",
-    "top-user-agents": "1.0.9",
+    "top-user-agents": "1.0.11",
     "ts-node": "8.10.2"
   },
   "ava": {
